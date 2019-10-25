@@ -1108,5 +1108,10 @@ var hacktobermap = [
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
     longitude: 76.9558
+  },{
+    name: "Adeojo Emmanuel",
+    location: "Landmark university Omu-Aran kwara State",
+    latitude: 8.140670,
+    longitude: 5.102040 
   }
 ];
